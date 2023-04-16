@@ -1,0 +1,2 @@
+# goexam
+golang example
